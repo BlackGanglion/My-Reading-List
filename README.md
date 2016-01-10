@@ -1,5 +1,5 @@
 # My-Reading-List
-The list and record of my reading
+The list and record of my reading - 只记录有用的
 
 :smile: : 阅读学习完成
 
@@ -15,7 +15,7 @@ The list and record of my reading
 
 * [JerryQu的小站](https://imququ.com)
   - [x] [本博客零散优化点汇总](https://imququ.com/post/summary-of-my-blog-optimization.html) 
-:star: 可用于自己的博客优化,待实践
+:star: 可用于自己的博客优化, 待实践
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
@@ -27,8 +27,12 @@ The list and record of my reading
 
 - [ ] [你不知道的JavaScript - 上卷](http://book.douban.com/subject/26351021/) :clap:
 
-## 早读系列
+## 公众号
 
 * [前端早读课](http://weibo.com/qianduanzaoduke?topnav=1&wvr=6&topsug=1&is_all=1)
 
 * VanillaOpenResty开发 公众号
+
+* [前端外刊评论]()
+ - [x] [Twitter "like" 动画实战](http://zhuanlan.zhihu.com/FrontendMagazine/20486738)
+:star: 可用于自己的博客点赞, 待实践
