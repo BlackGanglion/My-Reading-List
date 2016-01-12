@@ -19,6 +19,10 @@ The list and record of my reading - 只记录有用的
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
+* [腾讯AlloyTeam Blog](http://www.alloyteam.com)
+  - [x] [研究首屏时间?你先要知道这几个细节](http://www.alloyteam.com/2016/01/points-about-resource-loading/)
+:muscle: 一直期望提高页面加载速度, 这篇可以学习一下
+
 ## 单篇博文
 
 ## 技术书籍
