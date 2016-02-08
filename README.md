@@ -27,11 +27,13 @@ The list and record of my reading - 只记录有用的
 
 ## 单篇博文
 
+* [React 测试驱动教程](http://www.jianshu.com/p/6c74c96148c9) :smile:
+
 ## 技术书籍
 
 - [ ] [JavaScript忍者秘籍](http://book.douban.com/subject/26638316/) :muscle:
 
-- [ ] [你不知道的JavaScript - 上卷](http://book.douban.com/subject/26351021/) :clap:
+- [ ] [你不知道的JavaScript - 上卷](http://book.douban.com/subject/26351021/) :muscle:
 
 ## 公众号
 
