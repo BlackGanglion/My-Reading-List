@@ -31,6 +31,8 @@ The list and record of my reading - 只记录有用的
 
 * [React 测试驱动教程](http://www.jianshu.com/p/6c74c96148c9) :smile:
 * [brew update 镜像更新源](https://www.logcg.com/archives/1301.html) :smile:
+* [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402) 
+:smile: 移动端的页面适配
 
 ## 技术书籍
 
