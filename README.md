@@ -33,6 +33,7 @@ The list and record of my reading - 只记录有用的
 * [brew update 镜像更新源](https://www.logcg.com/archives/1301.html) :smile:
 * [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402) 
 :smile: 移动端的页面适配
+* [Node.js中开源库探秘object-assign](http://www.swiftcafe.io/2015/10/29/node-object-assign/) :smile:
 
 ## 技术书籍
 
