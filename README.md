@@ -27,6 +27,8 @@ The list and record of my reading - 只记录有用的
   - [x] [研究首屏时间?你先要知道这几个细节](http://www.alloyteam.com/2016/01/points-about-resource-loading/)
 :smile: 一直期望提高页面加载速度, 这篇可以学习一下
 
+* [pure render](http://zhuanlan.zhihu.com/purerender)
+
 ## 单篇博文
 
 * [React 测试驱动教程](http://www.jianshu.com/p/6c74c96148c9) :smile:
@@ -34,6 +36,7 @@ The list and record of my reading - 只记录有用的
 * [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402) 
 :smile: 移动端的页面适配
 * [Node.js中开源库探秘object-assign](http://www.swiftcafe.io/2015/10/29/node-object-assign/) :smile:
+* [深入理解 react-router 路由系统](https://segmentfault.com/a/1190000004075348) :muscle:
 
 ## 技术书籍
 
