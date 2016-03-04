@@ -48,6 +48,7 @@ The list and record of my reading - 只记录有用的
 
 * [前端早读课](http://weibo.com/qianduanzaoduke?topnav=1&wvr=6&topsug=1&is_all=1)
  - [x] [谈谈HTTP/2对前端的影响](http://hectorguo.com/zh/http2-starter/) :smile:
+ - [x] [浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html) :smile:
 
 * VanillaOpenResty开发 公众号
 
