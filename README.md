@@ -26,7 +26,6 @@ The list and record of my reading - 只记录有用的
 
 ### 无线前端
 * [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402)
-* [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/)
 
 ### JavaScript源码与技巧
 * [Node.js中开源库探秘object-assign](http://www.swiftcafe.io/2015/10/29/node-object-assign/)
