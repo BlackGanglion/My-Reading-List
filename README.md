@@ -15,9 +15,14 @@ The list and record of my reading - 只记录有用的
 * [Babel 入门教程](http://www.ruanyifeng.com/blog/2016/01/babel.html)
 
 ### React
+#### React-Router
+* [深入理解 react-router 路由系统](https://segmentfault.com/a/1190000004075348)
+* [React Router Tutorial](https://github.com/reactjs/react-router-tutorial)
+* [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
+
 * [React 测试入门教程](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html)
 * [React 测试驱动教程](http://www.jianshu.com/p/6c74c96148c9)
-* [深入理解 react-router 路由系统](https://segmentfault.com/a/1190000004075348)
+
 * [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
 
 ### CSS布局与效果
