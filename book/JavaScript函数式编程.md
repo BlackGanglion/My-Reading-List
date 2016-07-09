@@ -36,4 +36,71 @@ function truthy(x) { return (x !== false) && existy(x) };
 2. 面向对象编程(其实也属于命令式)
 3. 元编程
 
+### 2.2.3 定义几个Applicative函数
+
+```
+var _ = require('underscore');
+
+function existy(x) {
+  return x != null
+}
+
+function cat() {
+  var head = _.first(arguments);
+  if(existy(head))
+    return head.concat.apply(head, _.rest(arguments));
+  else
+    return [];
+}
+
+function construct(head, tail) {
+  return cat([head], _.toArray(tail));
+}
+
+function butLast(coll) {
+  return _.toArray(coll).slice(0, -1);
+}
+
+function mapcat(fun, coll) {
+  return cat.apply(null, _.map(coll, fun));
+}
+
+function interpose (inter, coll) {
+  return butLast(mapcat(function(e) {
+    return construct(e, [inter]);
+  },
+  coll));
+}
+
+console.log(interpose(",", [1, 2, 3]));
+```
+
+## 变量的作用域和闭包
+
+词法作用域: 变量查找从最内层范围向外扩展
+
+动态作用域: 维护命名绑定栈的全局映射
+
+闭包: 一个函数，捕获作用域的外部绑定（例如:不是自己的参数）。这些绑定是为之后使用（即使在该作用域已结束）而被定义的。
+
+```
+function createWeiredScaleFunction(FACTOR) {
+  // v = [5, 6, 7]
+  return function(v) {
+    this['FACTOR'] = FACTOR;
+    // captures = this.FACTOR = 10
+    var captures = this;
+    
+    // _.bind 指定function的this
+    return _.map(v, _.bind(function(n){
+      return (n * this['FACTOR']);
+    }, captures);
+  };
+}
+
+var scale10 = createWeiredScaleFunction(10);
+scale10.call({}, [5, 6, 7]);
+```
+
+## 第4章 高阶函数
 
